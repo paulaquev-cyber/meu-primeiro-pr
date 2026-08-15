@@ -4,7 +4,7 @@ Este é um repositório de prática, criado para aprender o fluxo de contribuiç
 
 ## O que este projeto faz
 
-Nada de especial — ele existe apenas para você pratricar o fluxo de trabalho com Git e GitHub.
+Nada de especial — ele existe apenas para você praticar o fluxo de trabalho com Git e GitHub.
 
 ## Como contribuir
 
